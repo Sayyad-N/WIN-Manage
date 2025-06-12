@@ -13,7 +13,9 @@
 - Python3
 - install wmi
   ``` pip install wmi ```
-
+## Run
+- For Run Tool
+  ``` python Win_Management.py ```
 ## Author
 - Powered By SayyadN
 
@@ -32,6 +34,9 @@
 - بايثون3
 - قم بتثبيت wmi
   ``` pip install wmi ```
+
+## التشغيل
+- لتشغيل اﻻداه   ``` python Win_Management.py ```
 
 ## المؤلف
 - بواسطة SayyadN
